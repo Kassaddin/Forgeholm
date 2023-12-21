@@ -14,3 +14,23 @@ An organization opposing the confinement of mages, seeking their liberation.
 ---
 ## Factions of Faerun involved
 ...
+
+---
+**Aetherium**
+- [[Aetherium Conductor]]
+- [[Aetherium Springs]]
+
+**Locations**
+ - [[Aetherium Springs]]
+ - [[Alchemy Outpost]]
+ - [[Automata Forge]]
+ - [[Cogsprocket Foundry]]
+ - [[Forgeholm Harbor]]
+ - [[Gearforge]]
+ - [[Verdant Machina]]
+ - [[Gearspring Citadel - Capital]]
+	 - [[Mage control center]]
+
+**Lore**
+- [[Contact with the Outside]]
+- [[Pantheon]]

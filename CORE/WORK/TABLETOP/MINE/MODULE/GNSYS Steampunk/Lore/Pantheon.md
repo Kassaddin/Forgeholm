@@ -33,3 +33,23 @@ Deneir is associated with writing, art, and literature. The suppression of magic
 ---
 ## Gods and deities patronizing the Forgeholm
 ...
+
+---
+**Aetherium**
+- [[Aetherium Conductor]]
+- [[Aetherium Springs]]
+
+**Locations**
+ - [[Aetherium Springs]]
+ - [[Alchemy Outpost]]
+ - [[Automata Forge]]
+ - [[Cogsprocket Foundry]]
+ - [[Forgeholm Harbor]]
+ - [[Gearforge]]
+ - [[Verdant Machina]]
+ - [[Gearspring Citadel - Capital]]
+	 - [[Mage control center]]
+
+**Lore**
+- [[Factions]]
+- [[Contact with the Outside]]

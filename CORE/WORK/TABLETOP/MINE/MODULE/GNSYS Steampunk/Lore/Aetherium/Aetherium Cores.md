@@ -49,4 +49,5 @@ The mining and use of Aetherium Cores may raise ethical concerns, especially if 
 ---
 #### Glossary
 - [[Aetherium Conductor]]
+- [[Aetherium Essence]]
 - [[Aetherium Springs]]

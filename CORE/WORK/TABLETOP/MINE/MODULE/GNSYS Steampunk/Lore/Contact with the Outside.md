@@ -35,3 +35,22 @@ Diplomacy might be the preferred approach for Faerun to gain access to Forgeholm
 ...
 
 ---
+#### Glossary
+**Aetherium**
+- [[Aetherium Conductor]]
+- [[Aetherium Springs]]
+
+**Locations**
+ - [[Aetherium Springs]]
+ - [[Alchemy Outpost]]
+ - [[Automata Forge]]
+ - [[Cogsprocket Foundry]]
+ - [[Forgeholm Harbor]]
+ - [[Gearforge]]
+ - [[Verdant Machina]]
+ - [[Gearspring Citadel - Capital]]
+	 - [[Mage control center]]
+
+**Lore**
+- [[Factions]]
+- [[Pantheon]]

@@ -53,3 +53,8 @@ The Gearmasters continue to invest in research and development, seeking ways to 
 The Enhanced Aetherium Conductor stands as a symbol of Forgeholm's progress, blending magical heritage with technological innovation. It is showcased as an achievement that ensures the city's security while propelling it into a new era.
 ### Public Perception
 While the Essence Transformer has its critics, many within Forgeholm view it as a necessary tool for maintaining order and security. The Gearmasters actively engage with the public to communicate the importance of the technology in the city's advancement.
+
+---
+#### Glossary
+- [[Aetherium Cores]]
+- [[Aetherium Springs]]

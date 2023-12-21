@@ -67,4 +67,5 @@ The presence of Aetherium Essence influences cultural and social dynamics across
 ---
 #### Glossary
 - [[Aetherium Cores]]
+- [[Aetherium Conductor]]
 - [[Aetherium Springs]]
