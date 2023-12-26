@@ -6,11 +6,10 @@ tags:
   - city
 ---
 Specializing in the synthesis of alchemical substances and potions, Alchemy Outpost plays a crucial role in supporting the technological advancements of Forgeholm.
-#### ??? Do they use essence or cores ???
 
 ## Overview
 ### Mystical Retreat
-Alchemy Outpost is a secluded city nestled amidst natural landscapes, known as the Potion Alcoves. The city specializes in alchemical research, potion brewing, and the cultivation of magical herbs. Its tranquil ambiance makes it a haven for alchemists, herbalists, and those seeking the mystical properties of potions.
+Alchemy Outpost is a secluded city nestled amidst natural landscapes, known as the Potion Alcoves. The city specializes in alchemical research and  potion brewing. Its tranquil ambiance makes it a haven for alchemists, herbalists, and those seeking the mystical properties of potions.
 
 ---
 ## Alchemy Guilds
@@ -23,7 +22,7 @@ Elixir Enchanters focus on creating potions with enchanting properties. These po
 ### Cauldron Commons
 Cauldron Commons is a bustling workshop area where alchemists brew potions and share their knowledge. The aroma of bubbling concoctions and the hum of magical activity create an energetic atmosphere.
 ### Aetherium Infusion Lab
-An Aetherium Infusion Lab is a specialized workshop where alchemists experiment with infusing potions with Aetherium Essence, creating elixirs with enhanced and sometimes unpredictable effects.
+An Aetherium Infusion Lab is a specialized workshop where alchemists experiment with infusing potions with Aetherium Cores, creating elixirs with enhanced and sometimes unpredictable effects.
 
 ---
 ## Council of Elixirs
