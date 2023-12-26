@@ -5,7 +5,7 @@ tags:
   - locations
   - city
 ---
-#### !!! Need to understand the process, so far overcomplicated !!!
+
 This city is known for its development of Aetherium crystals that amplify and stabilize aetherium technologies. The Aetherium Springs provide the essential resources needed for enchanting and powering various inventions.
 
 ## Overview
@@ -17,14 +17,60 @@ The city is organized into Luminescent Districts, each specializing in a differe
 ---
 ## Crystal Forging Guilds
 ### Essence Artisans
-The Essence Artisans specialize in the delicate process of refining raw Aetherium Essence into its crystalline form. They use advanced alchemical and enchanting techniques to enhance the purity and potency of the crystals.
-#### !!! Need the inner guild structure and codex !!!
-#### ??? Can anyone outside join it ranks and why ???
-#### ??? Is it a final step in creating crystals ???
-#### ??? What is the difference between crystal and core ???
+The Essence Artisans specialize in the delicate process of refining raw Aetherium Essence into its crystalline form. They use advanced alchemical and enchanting techniques to enhance the purity and potency of the crystals(cores).
+
 ### Resonance Engineers
-Resonance Engineers focus on designing devices that harness the power of Aetherium Cores. Their creations include everything from advanced machinery to enchanted trinkets, all powered by the radiant energy of Aetherium.
-#### ??? Only they can create contraptions ???
+Resonance engineers focus on the selection of manufactured crystals(cores) in order to distribute them according to the needs of the cities of Forgeholm.
+
+---
+## Guild structure and codex
+### Structure
+#### Guild Overseer
+- Leadership Role: The Guild Overseer is the head of the Crystal Forging Guilds, responsible for overseeing all guild activities and making strategic decisions.
+- Master Crystal Forger: Possesses exceptional skills in crystal forging and sets the standard for craftsmanship.
+
+#### Council of Crystal Artisans
+- Senior Forgers: Experienced crystal artisans appointed to the council, providing insights and contributing to major guild decisions.
+- Representative Specializations: Each member specializes in a particular aspect of crystal forging, such as enchantments, enhancements, or elemental infusions.
+
+#### Crystal Artisans
+- Master Crafters: Skilled artisans who excel in the art of crystal forging, creating a wide range of enchanted crystals for various applications.
+- Specializations: Categories include arcane crystals, elemental crystals, and facilitating synergy with aetherium-powered technologies.
+
+#### Research and Innovation Division
+- Cutting-Edge Exploration: Crystal forgers dedicated to pushing the boundaries of magical crystal applications.
+- Experimentation: Engages in controlled experiments to discover new crystal enchantments, applications of aetherium, and advancements in crystal forging techniques.
+
+#### Crystal Apprentices
+- Apprenticeship Program: Novice crystal forgers undergoing training to learn the intricacies of crystal crafting.
+- Hands-On Learning: Guided by experienced Crystal Artisans, apprentices contribute to guild projects and gain practical experience.
+
+### Codex
+#### Code of Craftsmanship
+- Excellence in Craft: Members shall strive for excellence in crystal forging, adhering to the highest standards of craftsmanship.
+- Continuous Improvement: All members are encouraged to seek personal and professional development in the art of crystal forging.
+
+#### Ethical Crystal Crafting
+- Environmental Responsibility: Members are mindful of the environmental impact of crystal forging and seek sustainable practices.
+
+#### Aetherium Essence Handling
+- Responsible Fusion: Aetherium Integration Experts shall handle aetherium essence responsibly, ensuring it is integrated into crystals ethically and safely.
+
+#### Continuous Learning
+- Pursuit of Knowledge: Members are expected to continually expand their knowledge, explore new crystal applications, and contribute to the guild's research efforts.
+- Mentorship: Experienced members shall mentor apprentices, passing on their expertise and ensuring the guild's traditions endure.
+
+#### Contribution to Aetherium Springs
+- City's Prosperity: The guild shall actively contribute to the prosperity and technical advancements of Aetherium Springs through innovative crystal applications.
+- Public Education: Crystal Artisans shall engage with the community, educating citizens about the benefits and safe use of enchanted crystals.
+
+#### Disciplinary Measures
+- Violation Consequences: Violation of the codex may result in disciplinary measures, including suspension or expulsion from the guild.
+- Appeals Process: Members have the right to appeal decisions, ensuring fairness in disciplinary actions.
+
+### Who can join?
+- Citizens: Only experienced alchemists can join.
+- Foreigners: No one.
 
 ---
 ## Crystal Sanctuaries
@@ -32,16 +78,6 @@ Resonance Engineers focus on designing devices that harness the power of Aetheri
 Cerulean Forge is a sanctuary where Aetherium Essence undergoes the initial stages of refinement. The glow of blue crystals permeates the forge, creating a serene and otherworldly atmosphere.
 ### Vivid Conclave
 Vivid Conclave is a district dedicated to the final stages of crystal refinement. Here, skilled Essence Artisans complete the transformation of Aetherium Essence into vibrant Aetherium Cores, ready for use in various applications.
-
----
-## Crystal Workshops
-### Luminar Studios
-Luminar Studios is a collaborative workshop where Resonance Engineers and Essence Artisans work side by side. This synergy ensures that the design and functionality of Aetherium-powered devices are seamlessly integrated with the purity of Aetherium Cores.
-#### ??? Contraptions form Resonance Engineers and cores from Vivid Conclave ???
-
-### Essencewright Guild
-Essencewrights specialize in the design and construction of aetherium-powered machines. From aetherium lanterns to automatons, Essencewrights are at the forefront of harnessing aetherium as a driving force for technology.
-#### ??? How it is different from the  Luminar Studios ???
 
 ---
 ## Council of Crystals
