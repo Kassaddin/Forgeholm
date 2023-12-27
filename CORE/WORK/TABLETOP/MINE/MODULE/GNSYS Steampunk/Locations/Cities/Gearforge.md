@@ -19,9 +19,67 @@ The city is divided into Foundry Districts, each specializing in different types
 The Firesmiths are master craftsmen specializing in forging melee weapons. They combine traditional blacksmithing with advanced aetherium techniques, creating blades with unparalleled sharpness and durability.
 ### Thunderforge Guild
 Thunderforge artisans focus on the creation of firearms and explosive devices. Their inventions harness the power of aetherium and enchanted ammunition, making Gearforge's weaponry highly sought after in battles across Faerun.
-#### !!! Need the inner guild structure and codex !!!
-#### ??? Can anyone outside join it ranks and why ???
-#### ??? How it is different from the Resonance Engineers, Luminar Studios, Clockwork Guilds and Cogwork Workshops ???
+
+---
+## Guild structure and codex
+### Structure
+#### Guildmaster Weaponsmith
+- Leadership Role: The Guildmaster Weaponsmith leads the Weaponcraft Guilds, overseeing all guild activities, making strategic decisions, and setting the standards for weapon craftsmanship.
+- Master Artisan: Possesses exceptional skills in weapon crafting and serves as the pinnacle of expertise in the forging of arms.
+
+#### Council of Master Forgers
+- Senior Forgers: Experienced weaponsmiths appointed to the council, providing insights and contributing to major guild decisions.
+- Representative Specializations: Each member specializes in a particular type of weaponry, such as blades, firearms, or enchanted weapons.
+
+#### Bladesmiths
+- Masters of Edged Weapons: Weaponsmiths specializing in the creation of bladed weapons, from swords and daggers to axes and polearms.
+- Specializations: Categories include traditional blades, exotic weapons, and masterfully crafted dueling swords.
+
+#### Firearm Artisans
+- Crafters of Ranged Arms: Weaponsmiths focused on the design and creation of firearms, ranging from pistols to advanced magical firearms.
+- Specializations: Categories include traditional firearms, magical firearms, and experimental ranged weaponry.
+
+#### Enchanters of Arms
+- Magical Weaponsmiths: Crafters with expertise in infusing magical elements into weapons, creating enchanted arms with unique properties.
+- Specializations: Categories include elemental enchantments, warding properties, and imbued weapon enhancements.
+
+#### Research and Development Division
+- Innovative Weaponry: Weaponsmiths dedicated to pushing the boundaries of weapon design and magical weapon applications.
+- Experimentation: Engages in controlled experiments to discover new weapon crafting techniques, integrate magical advancements, and enhance combat effectiveness.
+
+#### Weaponcraft Apprentices
+- Apprenticeship Program: Novice weaponsmiths undergoing training to learn the intricacies of weapon crafting.
+- Hands-On Learning: Guided by experienced Weaponsmiths, apprentices contribute to guild projects and gain practical experience.
+
+### Codex
+#### Code of Craftsmanship
+- Exceptional Quality: Members shall adhere to meticulous standards of craftsmanship, ensuring that each weapon crafted is of exceptional quality.
+- Continuous Improvement: All members are encouraged to seek personal and professional development to elevate their skills in weapon crafting.
+
+#### Magical Enhancement Guidelines
+- Responsible Enchantment: Enchanters of Arms shall infuse magical elements into weapons responsibly, ensuring safety and adherence to ethical magical practices.
+- Collaboration with Magical Oversight: Works closely with the Magical Oversight Bureau to ensure compliance with magical regulations and standards.
+
+#### Continuous Learning
+- Pursuit of Knowledge: Members are expected to continually expand their knowledge, explore new weapon crafting techniques, and contribute to the guild's research efforts.
+- Mentorship: Experienced members shall mentor apprentices, passing on their expertise and ensuring the guild's traditions endure.
+
+#### Guild Solidarity
+- Supportive Community: Members shall support each other in both personal and professional endeavors.
+- Joint Projects: Encouraged to collaborate on guild-wide projects, fostering a sense of unity and shared achievement.
+
+#### Contribution to Gearforge
+- City's Arsenal: The guild shall actively contribute to the arsenal and defense of Gear Forge through the creation of superior weaponry.
+- Public Education: Weaponsmiths shall engage with the community, educating citizens about the benefits and responsible use of crafted arms.
+
+#### Disciplinary Measures
+- Violation Consequences: Violation of the codex may result in disciplinary measures, including suspension or expulsion from the guild.
+- Appeals Process: Members have the right to appeal decisions, ensuring fairness in disciplinary actions.
+
+### Who can join?
+- Citizens: Anyone who shows an interest in weaponsmith. They undergo a rigorous selection process.
+- Foreigners: Only worthy masters of weaponsmith arts from Faerun can join the guild after passing difficult exams and checks.
+
 ---
 ## Artisan Quarters
 ### Craftsman Residences
